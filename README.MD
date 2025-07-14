@@ -6,7 +6,7 @@
 🛠️ Tools & Systems Engineer | Multiplayer Architecture | UI & UX Integration  
 🐉 Game Dev @ Wargaming | Unreal Engine enthusiast | C++ > Blueprints (mostly)  
 
-#
+##
 
 I build cool stuff in C++ and Unreal Engine, from combat systems and AI to in-editor tools that (sometimes) make designers happy.  
 Worked across a bunch of prototypes and full projects - multiplayer, PvE, and mobile - using both commercial and custom engines.  
@@ -22,21 +22,17 @@ Unreal Engine and C++ is my home base, but I have tinkered with Unity, Godot, Py
 
 Sometimes I even open ASEPRITE for some pixel art fun.
 
-#
-
-# 🚀 Projects
+## 🚀 Projects
 
 - [THS: Time Has Stopped](https://ths-vr.net/)
 - [Seweria: Nacho’s Tale](https://mikemaris.itch.io/seweria-nachos-tale)
 - Internal multiplayer and PvE titles (under NDA)  
 
-#
-
-# 🧠 Languages
+## 🧠 Languages
 
 - C++ • C# • C • Python • SQL • Unreal Scripting/Blueprints
 
-# 🔧 Technologies
+## 🔧 Technologies
 
 - Unreal Engine 4/5 • CommonUI • GAS • UMG  
 - Custom ECS engines • Networking frameworks • AI/ML prototyping  
