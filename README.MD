@@ -9,7 +9,7 @@
 I build cool stuff in C++ and Unreal Engine, from combat systems and AI to in-editor tools that (sometimes) make designers happy.  
 Worked across a bunch of prototypes and full projects - multiplayer, PvE, and mobile - using both commercial and custom engines.  
 
-Most of my time is spend creating:  
+Most of my time is spend on:  
 - Gameplay mechanics & systems design  
 - Modular ability frameworks  
 - Real-time networking & game flow control  
