@@ -6,17 +6,17 @@
 
 ---
 
-I build cool stuff in C++, from combat systems and AI to in-editor tools that (sometimes) make designers happy.  
+I build cool stuff in C++ and Unreal Engine, from combat systems and AI to in-editor tools that (sometimes) make designers happy.  
 Worked across a bunch of prototypes and full projects - multiplayer, PvE, and mobile - using both commercial and custom engines.  
 
-My current playgrounds:  
+Most of my time is spend creating:  
 - Gameplay mechanics & systems design  
 - Modular ability frameworks  
 - Real-time networking & game flow control  
 - Tools and UI/UX programming  
 - AI behavior trees + ML-assisted agents  
 
-Unreal Engine is my home base, but I have tinkered with Unity, Python, and the occasional shader.  
+Unreal Engine and C++ is my home base, but I have tinkered with Unity, Godot, Python, the occasional shader language and a tiny bit of Blender.  
 
 Sometimes I even open ASEPRITE for some pixel art fun.
 
