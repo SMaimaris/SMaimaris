@@ -1,5 +1,11 @@
 ### Hey, I'm Stylianos 👋
 
+--
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stylianos-maimaris-989450217/)  
+[![Email](https://img.shields.io/badge/Email-stylianos@stylianosmaimaris.com-lightgrey?logo=gmail)](mailto:stylianos@stylianosmaimaris.com)
+
+
 🎮 Generalist C++ / Gameplay Programmer  
 🛠️ Tools & Systems Engineer | Multiplayer Architecture | UI & UX Integration  
 🐉 Game Dev @ Wargaming | Unreal Engine enthusiast | C++ > Blueprints (mostly)  
@@ -40,7 +46,3 @@ Sometimes I even open ASEPRITE for some pixel art fun.
 - Custom ECS engines • Networking frameworks • AI/ML prototyping  
 - Git • Perforce • Visual Studio • VS Code • Rider  
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stylianos-maimaris-989450217/)  
-[![Email](https://img.shields.io/badge/Email-stylianos@stylianosmaimaris.com-lightgrey?logo=gmail)](mailto:stylianos@stylianosmaimaris.com)
