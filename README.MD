@@ -16,7 +16,7 @@ My current playgrounds:
 - Tools and UI/UX programming  
 - AI behavior trees + ML-assisted agents  
 
-Unreal Engine is my home base, but I have tinkered with Unity, Python, and the occasional shader or ML script when the mood strikes.  
+Unreal Engine is my home base, but I have tinkered with Unity, Python, and the occasional shader.  
 
 Sometimes I even open ASEPRITE for some pixel art fun.
 
