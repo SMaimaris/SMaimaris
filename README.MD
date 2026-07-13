@@ -2,13 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stylianos-maimaris-989450217/)  [![Email](https://img.shields.io/badge/Email-stylianos@stylianosmaimaris.com-lightgrey?logo=gmail)](mailto:stylianos@stylianosmaimaris.com)
 
-🎮 Generalist C++ / Gameplay Programmer  
+🎮 Generalist C++/C# / Gameplay Programmer  
 🛠️ Tools & Systems Engineer | Multiplayer Architecture | UI & UX Integration  
-🐉 Game Dev @ Wargaming | Unreal Engine enthusiast | C++ > Blueprints (mostly)  
+🐉 Game Dev @ Wargaming
 
 ##
 
-I build cool stuff in C++ and Unreal Engine, from combat systems and AI to in-editor tools that (sometimes) make designers happy.  
+I build cool stuff in C++/Unreal Engine and C#/Godot, from combat systems and AI to in-editor tools that make designers happy.  
 Worked across a bunch of prototypes and full projects - multiplayer, PvE, and mobile - using both commercial and custom engines.  
 
 Most of my time is spend on:  
@@ -17,10 +17,6 @@ Most of my time is spend on:
 - Real-time networking & game flow control  
 - Tools and UI/UX programming  
 - AI behavior trees + ML-assisted agents  
-
-Unreal Engine and C++ is my home base, but I have tinkered with Unity, Godot, Python, the occasional shader language and a tiny bit of Blender.  
-
-Sometimes I even open ASEPRITE for some pixel art fun.
 
 ## 🚀 Projects
 
@@ -34,7 +30,8 @@ Sometimes I even open ASEPRITE for some pixel art fun.
 
 ## 🔧 Technologies
 
-- Unreal Engine 4/5 • CommonUI • GAS • UMG  
+- Unreal Engine 4/5 • CommonUI • GAS • UMG
+- Godot 4 • C# 
 - Custom ECS engines • Networking frameworks • AI/ML prototyping  
 - Git • Perforce • Visual Studio • VS Code • Rider  
 
