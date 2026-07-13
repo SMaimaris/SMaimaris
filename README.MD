@@ -22,7 +22,8 @@ Most of my time is spend on:
 
 - [THS: Time Has Stopped](https://ths-vr.net/)
 - [Seweria: Nacho’s Tale](https://mikemaris.itch.io/seweria-nachos-tale)
-- Internal multiplayer and PvE titles (under NDA)  
+- Internal multiplayer and PvE titles (under NDA)
+- Everything else that's here
 
 ## 🧠 Languages
 
